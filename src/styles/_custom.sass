@@ -2,13 +2,21 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 70%
+    left: 20%
+    width: 100px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 41%
+    left: 0
+    width: 100px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 0
+    width: 80px
 
 @keyframes float1
   0%
@@ -30,9 +38,10 @@ figcaption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
-  @media screen and (max-width: $bp-max-xl)
-    width: 400px !important
+  width: 400px !important
+  @media screen and (min-width: $bp-min-xl)
+    padding-bottom: 0 !important
+
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
@@ -43,3 +52,175 @@ figcaption
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+//Backgrounds
+.bg-primario-claro
+  background-color: $color-primario-claro
+.bg-primario-oscuro
+  background-color: $color-primario-oscuro
+.bg-secundario-medio
+  background-color: $color-secundario-medio
+.bg-secundario-claro
+  background-color: $color-secundario-claro
+.bg-terciario-medio
+  background-color: $color-terciario-medio
+
+.bg-slider-f
+  background-image: url(../assets/curso/common/bg-purple-square.png)
+  background-position: left center
+  background-size: cover
+  background-repeat: no-repeat
+
+.fullwidth-bg
+  display: none
+  @media screen and (min-width: 768px)
+    display: block
+  position: relative
+  z-index: 0
+
+  &--1::after
+    top: 10px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/common/bg-1.png')
+    
+  &--2::after
+    top: 200px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/common/bg-2.png')
+
+// Image width
+.img-85
+  max-width: 85px
+  margin: 0 auto
+.img-120
+  max-width: 120px
+  margin: 0 auto
+.img-140
+  max-width: 140px
+  margin: 0 auto
+.img-180
+  max-width: 180px
+  margin: 0 auto
+.img-205
+  max-width: 205px
+  margin: 0 auto
+.img-225
+  max-width: 225px
+  margin: 0 auto
+.img-250
+  max-width: 250px
+  margin: 0 auto
+.img-360
+  max-width: 360px
+  margin: 0 auto
+
+.text-primario
+  color: $color-primario
+.text-secundario-variante
+  color: #E9DCBF
+
+// MIS CUSTOMS  
+.slider-wrapper
+  position: relative
+  .bg-fullwidth
+    background-image: url(../assets/curso/common/bg-slider.png)
+    background-position: center
+    background-size: cover
+    position: absolute
+    top: -40px
+    left: -47px
+    bottom: -20px
+    right: -60px
+    width: calc( 100% + 96px )
+    height: calc( 100% + 80px )
+    border-radius: 20px
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: #FF7E5D
+    border-color: #FF7E5D
+    background-image: url(../assets/bullets/arrow-white.svg)
+  .slyder-a__bullets__item
+    background-color: #CBC232
+    border-color: #CBC232
+    opacity: 0.5
+    &--active
+      opacity: 1
+
+.z-2
+  position: relative
+  z-index: 2
+.accesibilidad
+  z-index: 3
+
+.slyder-f
+  .slyder-f__btn i
+    color: #FF7E5D
+
+.mb-6
+  margin-bottom: 6rem
+
+.tarjeta-label
+  &__icon
+    top: 50%
+    left: 0
+    transform: translate(-50%, -50%)
+
+.custom-mh
+  height: -webkit-fill-available
+
+.etiqueta-title
+  position: relative
+  overflow: hidden
+  z-index: 2
+  background-image: url(../assets/curso/common/bg-title.png)
+  background-position: right center
+  background-size: cover
+  padding-right: 100px
+  padding: 12px 100px 14px 15px
+  display: block
+  width: fit-content
+
+.custom-acordeon
+  background-color: #FAF9EA
+  &.acordion__activo
+    background-image: url("../assets/curso/common/bg-purple-horizontal.png") !important
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: center
+    background-color: #DBE3FB
+
+.tabs-a__tab
+  background-color: #DBE3FB
+  &__selected
+    color: #fff !important
+.tabs-a__content-item
+  height: 100%
+
+.custom-tabs
+  .tabs-a
+    @media (min-width: 1200px) 
+      .row
+        .col-xl-3 
+          flex: 0 0 auto
+          width: 40%
+        .col-xl-9
+          flex: 0 0 auto
+          width: 60%
+    @media (min-width: 992px) 
+      .row
+        .col-lg-4 
+          flex: 0 0 auto
+          width: 40%
+        .col-lg-8 
+          flex: 0 0 auto
+          width: 60%
+
+.tabs-b__tab
+  background-color: $color-primario-claro
+
+.tabs-b__content-item
+  background-color: #FDFCF9
+
+.tabs-b__tab.tabs-b__tab--active
+  background-color: #FDFCF9
