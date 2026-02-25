@@ -64,6 +64,8 @@ figcaption
   background-color: $color-secundario-claro
 .bg-terciario-medio
   background-color: $color-terciario-medio
+.bg-terciario
+  background-color: $color-terciario
 .bg-azul-oscuro
   background-color: #12263F
 .bg-franja
@@ -84,6 +86,11 @@ figcaption
     @media screen and ( min-width: 992px )
       top: 30px
       height: 80%
+  &--fullheight
+    &::before
+      @media screen and ( min-width: 992px )
+        top: 0
+        height: 100%
 
 .bg-slider-f
   background-image: url(../assets/curso/common/bg-purple-square.png)
@@ -138,6 +145,8 @@ figcaption
 
 .text-primario
   color: $color-primario
+.text-terciario
+  color: $color-terciario
 .text-secundario-variante
   color: #E9DCBF
 
