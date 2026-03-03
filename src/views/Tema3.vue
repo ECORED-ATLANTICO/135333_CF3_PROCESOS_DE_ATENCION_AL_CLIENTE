@@ -205,7 +205,30 @@
         p.mb-0 Para el registro de información en la base de datos se deben tener presente los roles, entendidos estos como el tipo de accesos que se permiten a cada usuario, en este sentido asociado al tratamiento de bases de datos a nivel estándar se tienen los siguientes roles:
 
 
-    //- TODO: cards
+    .row.justify-content-center.mb-4.mb-lg-5
+      .col-xl-10
+        .row.align-items-stretch
+          .col-md-6.col-lg-4
+            .tarjeta.bg-slider-f.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img.img-120.mb-4(src='@/assets/curso/tema3/12.svg' alt='AvatarTop')
+              h5.text-center.mb-4 Rol Administrador
+              p.text-center Es aquel que tiene la facultad de realizar cualquier tipo de acciones sobre la base de datos, asociado tanto a los datos como a los usuarios.
+          .col-md-6.col-lg-4
+            .tarjeta.bg-slider-f.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img.img-120.mb-4(src='@/assets/curso/tema3/13.svg' alt='AvatarTop')
+              h5.text-center.mb-4 Rol de Registro y Edición
+              p.text-center Este tipo de roles están asociados a aquellos usuarios que ingresan, procesas y/o modifican los datos.
+          .col-md-6.col-lg-4
+            .tarjeta.bg-slider-f.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img.img-120.mb-4(src='@/assets/curso/tema3/14.svg' alt='AvatarTop')
+              h5.text-center.mb-4 Rol de consulta
+              p.text-center Estos usuarios pueden ingresar a la base de datos con la finalidad de detallar la información y algunos casos, bajar información; sin embargo, no pueden modificar.
 
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -213,8 +236,16 @@
         p.mb-0 De acuerdo con los roles, en cada empresa realizan sobre las bases de datos la asignación de perfiles, entendiendo este último concepto como la asociación para cada rol de transacciones (operaciones) específicas que puede realizar el usuario. A modo de ejemplo y para mayor comprensión se presenta esta situación: 
 
 
-    //- TODO: Imagen texto Imagen
-
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.g-0
+      .col-8.col-md-4.col-lg-2.col-xl-2
+        figure
+          img(data-aos="fade-down-right", src="@/assets/curso/tema3/15.svg", alt="imagen de acompañamiento")
+      .col-lg-8.col-xl-6
+        .p-4.bg-secundario-extra-claro
+          p.mb-0 #[strong Diana Carolina] es agente de servicio enfocada en la recepción de pedidos, por tanto, desde su rol de registro y edición tiene un perfil para ingresar pedidos, mientras que #[strong María Valentina] que es una agente de servicio en el contact center, enfocada en brindar información a los clientes tiene asociado a su rol de consulta un perfil para consultar los pedidos de los clientes.
+      .col-8.col-md-4.col-lg-2.col-xl-2
+        figure
+          img(data-aos="fade-down-right", src="@/assets/curso/tema3/16.svg", alt="imagen de acompañamiento")
 
 
     .row.justify-content-center.mb-4.mb-lg-5
