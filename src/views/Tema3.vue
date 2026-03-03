@@ -209,21 +209,21 @@
       .col-xl-10
         .row.align-items-stretch
           .col-md-6.col-lg-4
-            .tarjeta.bg-slider-f.p-4
+            .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema3/12.svg' alt='AvatarTop')
               h5.text-center.mb-4 Rol Administrador
               p.text-center Es aquel que tiene la facultad de realizar cualquier tipo de acciones sobre la base de datos, asociado tanto a los datos como a los usuarios.
           .col-md-6.col-lg-4
-            .tarjeta.bg-slider-f.p-4
+            .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema3/13.svg' alt='AvatarTop')
               h5.text-center.mb-4 Rol de Registro y Edición
               p.text-center Este tipo de roles están asociados a aquellos usuarios que ingresan, procesas y/o modifican los datos.
           .col-md-6.col-lg-4
-            .tarjeta.bg-slider-f.p-4
+            .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema3/14.svg' alt='AvatarTop')
