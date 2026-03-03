@@ -28,9 +28,9 @@
             p.ms-4.mb-0 Es un sistema de tipo informático que posibilita la #[strong obtención, gestión y administración de la información de una forma ordenada y lógica], y con un fin determinado.
 
     .fullwidth-bg.fullwidth-bg--1
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Importancia de los sistemas de Información
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -90,10 +90,10 @@
         .cajon.color-terciario.p-4(data-aos="fade-up")
           p.mb-0 En resumen y atendiendo lo visto anteriormente sobre los S.I, estos son herramientas que permiten obtener, almacenar, administrar, procesar, controlar, distribuir y custodiar la información de la empresa de una forma tecnológica y confiable y aunque, si bien en el momento inicial pueden suponer una inversión considerable cuando se compran o se desarrollan in house (es decir, se realizan al interior de la empresa), la optimización a la que llevan, la minimización de los errores y la calidad de la información que se va a tener sin duda genera una relación costo - beneficio positiva.
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
-          span.etiqueta-title Importancia de los sistemas de Información
+        h4(data-aos='zoom-in-right').mb-4
+          span.etiqueta-title Tipos de sistemas de información
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -123,9 +123,9 @@
       .col-xl-10
         p.mb-0 Vale la pena mencionar que a nivel general, entre mayor sea el tamaño de la empresa mayor será la probabilidad que incorpore varios o todos estos tipos de sistemas de información, de manera análoga entre más pequeña sea la compañía menor será el nivel de usabilidad de estas herramientas.
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Sistemas de información transversales
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -142,9 +142,9 @@
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/11.svg", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
         figcaption #[strong Nota.] SENA, 2026
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Sistema de información enfocado en clientes
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -184,9 +184,9 @@
         h5.text-center.mb-4 Gestión del flujo comercial
         p.text-center Permite disponer de diferentes opciones y etapas personalizadas de acuerdo con el modelo comercial de la empresa y los flujos de ventas.
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Sistemas de facturación
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -214,12 +214,12 @@
           h5.mb-4 Disminución de errores en cobros
           P.mb-0 las manualidades llevan inmersas el error humano y si bien los S.I. son operados por humanos, con sistemas de Billing, que minimiza el error, dado que una de las finalidades de los facturadores es realizar los cálculos respectivos asociados a cada transacción.
 
-    .row.justify-content-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Sistemas de inteligencia de negocios
 
-    .row.justify-content-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center
       .col-xl-10
         p Actualmente, el tema de inteligencia de negocios, más conocido como BI es una de las temáticas más abordadas por las empresas, dada la importancia de la toma oportuna de decisiones, de acuerdo con ello, los sistemas de información son la herramienta que ayuda a procesar y a generar información. En el siguiente listado se enuncian algunas características de los S.I. enfocados en la inteligencia de negocios:
 

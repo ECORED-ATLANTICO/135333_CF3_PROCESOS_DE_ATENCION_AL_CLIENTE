@@ -38,9 +38,9 @@
                   span 
                 | En sentido práctico, son los “peros” que expone el cliente potencial al vendedor durante el proceso de la venta.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Tipos de objeciones
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -85,9 +85,9 @@
             .h2 2
           P.mb-0 La experiencia, cada vez que se tiene mayor contacto con los clientes se van adquiriendo más destrezas para interactuar y manejar situaciones que a simple vista incluso pueden ser inmanejables.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center
       .col-xl-10
-        h4(data-aos='zoom-in-right')
+        h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Resolución de objeciones
 
     .row.justify-content-center.mb-4.mb-lg-5
