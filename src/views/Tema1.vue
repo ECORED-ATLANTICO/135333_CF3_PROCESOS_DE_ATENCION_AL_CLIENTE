@@ -72,7 +72,7 @@
         .col-12.col-lg-6.align-items-center(data-aos="fade-left")
           div.p-4.p-lg-5
             p Para comprender la dinámica de las empresas en Colombia, lo primero que se debe tener claro es la perspectiva legal. En este orden de ideas, surgen algunos conceptos que se deben apropiar:
-            a.boton.bg-azul-oscuro.me-3.text-white(:href="obtenerLink('downloads/Concepto_Empresa.pdf')" target="_blank" type="application/pdf")
+            a.boton.bg-azul-oscuro.me-3.text-white(:href="obtenerLink('downloads/Conceptos_Empresa.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
