@@ -66,8 +66,9 @@
       .col-lg-10.col-xl-8
         p.mb-0 Atendiendo la importancia de este tema, se invita a revisar el video que se muestra a continuación, con el fin de hacer mayor énfasis en las PQRSF:
 
-    .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipo de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figure.mb-5
+      .video.mb-2
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipo de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Tipo de requerimientos
 
     .row.justify-content-center.mb-4.mb-lg-5
@@ -159,7 +160,7 @@
           span.etiqueta-title Técnicas para la gestión de requerimientos
 
     .row.justify-content-center.align-items-center.mb-4.z-2
-      .col-6.col-lg-4
+      .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/11.png", alt="Imagen de acompañamiento")
       .col-lg-6

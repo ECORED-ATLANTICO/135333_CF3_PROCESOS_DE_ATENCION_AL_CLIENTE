@@ -197,7 +197,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-6.col-lg-4
+      .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/11.png", alt="imagen de acompañamiento")
       .col-lg-8
@@ -207,15 +207,15 @@
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
-        .row.align-items-stretch
-          .col-md-6.col-lg-4
+        .row.align-items-stretch.justify-content-center
+          .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema3/12.svg' alt='AvatarTop')
               h5.text-center.mb-4 Rol Administrador
               p.text-center Es aquel que tiene la facultad de realizar cualquier tipo de acciones sobre la base de datos, asociado tanto a los datos como a los usuarios.
-          .col-md-6.col-lg-4
+          .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
                 .col-8

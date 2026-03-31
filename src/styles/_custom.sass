@@ -15,7 +15,7 @@
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 21%
-    right: 0
+    right: 10%
     width: 80px
 
 @keyframes float1
@@ -48,10 +48,9 @@ figcaption
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
 .banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-md)
+  background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+  @media screen and (min-width: $bp-min-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
-  @media screen and (max-width: $bp-max-sm)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
 
 //Backgrounds
 .bg-primario-claro
