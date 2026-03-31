@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Recepción y registro de requerimientos del cliente',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la capacidad para identificar, registrar y gestionar adecuadamente los requerimientos del cliente mediante el uso de sistemas de información, bases de datos y elaboración de informes que fortalezcan la relación organizacional.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -478,9 +478,10 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }

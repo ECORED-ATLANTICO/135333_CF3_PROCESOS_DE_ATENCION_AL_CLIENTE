@@ -101,7 +101,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA3_135333_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -174,7 +174,7 @@ export default {
     {
       termino: 'BI',
       significado:
-        'Sigla alusiva a la inteligencia de negocios (business intelligence). Es el conjunto de aplicaciones, herramientas, análisis y conocimientos que permiten a la empresa conocer información oportuna para la toma de decisiones de negocio.',
+        'Sigla alusiva a la inteligencia de negocios (<em>business intelligence</em>). Es el conjunto de aplicaciones, herramientas, análisis y conocimientos que permiten a la empresa conocer información oportuna para la toma de decisiones de negocio.',
     },
     {
       termino: '<em>Billing</em>',
@@ -263,14 +263,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre ',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -278,9 +279,32 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Diana Carolina Jaramillo Rojas',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios Regional - Norte de Santander',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor metodológico',
+          centro: 'Centro de Diseño y Metrología Regional - Distrito Capital',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de estilo',
+          centro: 'Centro de Diseño y Metrología Regional - Distrito Capital',
         },
       ],
     },
@@ -288,19 +312,43 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carmen Alicia Martínez Torres ',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
+        },
+
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor audiovisual ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Laura Ximena Hurtado Villalba',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -308,14 +356,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

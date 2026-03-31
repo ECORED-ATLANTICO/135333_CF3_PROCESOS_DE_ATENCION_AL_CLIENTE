@@ -88,7 +88,7 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .cajon.color-terciario.p-4(data-aos="fade-up")
-          p.mb-0 En resumen y atendiendo lo visto anteriormente sobre los S.I, estos son herramientas que permiten obtener, almacenar, administrar, procesar, controlar, distribuir y custodiar la información de la empresa de una forma tecnológica y confiable y aunque, si bien en el momento inicial pueden suponer una inversión considerable cuando se compran o se desarrollan in house (es decir, se realizan al interior de la empresa), la optimización a la que llevan, la minimización de los errores y la calidad de la información que se va a tener sin duda genera una relación costo - beneficio positiva.
+          p.mb-0 En resumen y atendiendo lo visto anteriormente sobre los S.I, estos son herramientas que permiten obtener, almacenar, administrar, procesar, controlar, distribuir y custodiar la información de la empresa de una forma tecnológica y confiable y aunque, si bien en el momento inicial pueden suponer una inversión considerable cuando se compran o se desarrollan #[em in house] (es decir, se realizan al interior de la empresa), la optimización a la que llevan, la minimización de los errores y la calidad de la información que se va a tener sin duda genera una relación costo - beneficio positiva.
 
     .row.justify-content-center
       .col-xl-10
@@ -108,16 +108,16 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta custom-acordeon")
           .row(titulo="ERP")
             .col-md-12.px-5
-              p.mb-0 Sistema de información en el que sistematiza varios procesos de su compañía, se dirá que la empresa tiene un Enterprise Resource Planning (Sistema de planificación de recursos empresariales) más conocido como ERP.
+              p.mb-0 Sistema de información en el que sistematiza varios procesos de su compañía, se dirá que la empresa tiene un #[em Enterprise Resource Planning] (Sistema de planificación de recursos empresariales) más conocido como ERP.
           .row(titulo="CRM")
             .col-md-12.px-5
-              p Sistemas de información enfocados en clientes, es decir, si la empresa posee un sistema de información destinado solo a los clientes, se hará mención a un Customer Relationship Management (Sistema de gestión de las relaciones con los clientes), conocido como CRM.
+              p Sistemas de información enfocados en clientes, es decir, si la empresa posee un sistema de información destinado solo a los clientes, se hará mención a un #[em Customer Relationship Management] (Sistema de gestión de las relaciones con los clientes), conocido como CRM.
           .row(titulo="<em>Billing</em>")
             .col-md-12.px-5
-              p Sistema enfocado exclusivamente en procesos de facturación y se denominará Billing (facturadores).
+              p Sistema enfocado exclusivamente en procesos de facturación y se denominará #[em Billing] (facturadores).
           .row(titulo="Sistemas de BI")
             .col-md-12.px-5
-              p Sistema enfocado al procesamiento de información de la empresa, se denomina Business Intelligence (Inteligencia de negocios) referenciado en el ámbito empresarial como sistemas de BI.
+              p Sistema enfocado al procesamiento de información de la empresa, se denomina #[em Business Intelligence] (Inteligencia de negocios) referenciado en el ámbito empresarial como sistemas de BI.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -164,7 +164,7 @@
           .col-8
             img.img-120.mb-4(src='@/assets/curso/tema2/13.svg' alt='AvatarTop')
         h5.text-center.mb-4 Optimización de procesos comerciales
-        p.text-center Los CRM utilizan los workflow (flujos de trabajo) para eliminar la necesidad de dedicar tiempo a tareas repetitivas.
+        p.text-center Los CRM utilizan los #[em workflow] (flujos de trabajo) para eliminar la necesidad de dedicar tiempo a tareas repetitivas.
       .tarjeta.bg-slider-f.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -212,7 +212,7 @@
           .tarjeta-numerada__numero
             .h2 3
           h5.mb-4 Disminución de errores en cobros
-          P.mb-0 las manualidades llevan inmersas el error humano y si bien los S.I. son operados por humanos, con sistemas de Billing, que minimiza el error, dado que una de las finalidades de los facturadores es realizar los cálculos respectivos asociados a cada transacción.
+          P.mb-0 Las manualidades llevan inmersas el error humano y si bien los S.I. son operados por humanos, con sistemas de Billing, que minimiza el error, dado que una de las finalidades de los facturadores es realizar los cálculos respectivos asociados a cada transacción.
 
     .row.justify-content-center
       .col-xl-10
@@ -253,7 +253,7 @@
                 figure.justify-center
                   img.img-95(src='@/assets/curso/tema2/20.svg', alt='Texto que describa la imagen')
               .col-12.col-lg-9    
-                p.mb-0 la visualización es el nombre técnico con el cual se conoce el procesamiento, la agrupación y consolidación de los datos para que sean vistos y entendidos por los usuarios. Hoy en día los sistemas de BI tienen grandes bondades en cuanto a este tema, ya que a través de métricas, gráficos y tablas se muestra de forma estética y precisa la información. 
+                p.mb-0 La visualización es el nombre técnico con el cual se conoce el procesamiento, la agrupación y consolidación de los datos para que sean vistos y entendidos por los usuarios. Hoy en día los sistemas de BI tienen grandes bondades en cuanto a este tema, ya que a través de métricas, gráficos y tablas se muestra de forma estética y precisa la información. 
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-12
