@@ -35,32 +35,32 @@
             h5 Peticiones, quejas, reclamos, sugerencias, felicitaciones (PQRSF)
             p.mb-0 Las Peticiones (P), Quejas (Q), Reclamos (R), Sugerencias (S) y Felicitaciones (F) son en muchas ocasiones la mayor composición dentro de los requerimientos de los usuarios, ya que la mayoría de sus solicitudes hacia la empresa están enfocadas en ellas. A nivel general, las PQRS hacen alusión a inconformidades o dificultades con la empresa, su personal o los productos adquiridos, mientras que las felicitaciones aluden a un reconocimiento de cliente hacia la empresa y las sugerencias una visión de mejora desde una perspectiva propositiva. 
 
-    .row.align-items-stretch.mb-xl-5
-      .col-md-6.col-lg-4.col-xl-3.offset-xl-2
-        .tarjeta-container.mb-4.custom-mh
-          .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
-            img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/3.svg' alt='AvatarTop')
-            p.ms-4.mb-0 #[strong Soporte técnico]
-      .col-md-6.col-lg-4.col-xl-2
-        .tarjeta-container.mb-4.custom-mh
-          .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
-            img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/4.svg' alt='AvatarTop')
-            p.ms-4.mb-0 #[strong Pedidos]
-      .col-md-6.col-lg-4.col-xl-3
-        .tarjeta-container.mb-4.custom-mh
-          .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
-            img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/5.svg' alt='AvatarTop')
-            p.ms-4.mb-0 #[strong Televentas]
-      .col-md-6.col-lg-4.col-xl-3.offset-xl-3
-        .tarjeta-container.mb-4.custom-mh
-          .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
-            img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/6.svg' alt='AvatarTop')
-            p.ms-4.mb-0 #[strong Cobranza]
-      .col-md-6.col-lg-4.col-xl-3
-        .tarjeta-container.mb-4.custom-mh
-          .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
-            img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/7.svg' alt='AvatarTop')
-            p.ms-4.mb-0 #[strong Sondeos]
+    //- .row.align-items-stretch.mb-xl-5
+    //-   .col-md-6.col-lg-4.col-xl-3.offset-xl-2
+    //-     .tarjeta-container.mb-4.custom-mh
+    //-       .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
+    //-         img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/3.svg' alt='AvatarTop')
+    //-         p.ms-4.mb-0 #[strong Soporte técnico]
+    //-   .col-md-6.col-lg-4.col-xl-2
+    //-     .tarjeta-container.mb-4.custom-mh
+    //-       .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
+    //-         img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/4.svg' alt='AvatarTop')
+    //-         p.ms-4.mb-0 #[strong Pedidos]
+    //-   .col-md-6.col-lg-4.col-xl-3
+    //-     .tarjeta-container.mb-4.custom-mh
+    //-       .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
+    //-         img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/5.svg' alt='AvatarTop')
+    //-         p.ms-4.mb-0 #[strong Televentas]
+    //-   .col-md-6.col-lg-4.col-xl-3.offset-xl-3
+    //-     .tarjeta-container.mb-4.custom-mh
+    //-       .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
+    //-         img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/6.svg' alt='AvatarTop')
+    //-         p.ms-4.mb-0 #[strong Cobranza]
+    //-   .col-md-6.col-lg-4.col-xl-3
+    //-     .tarjeta-container.mb-4.custom-mh
+    //-       .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
+    //-         img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema4/7.svg' alt='AvatarTop')
+    //-         p.ms-4.mb-0 #[strong Sondeos]
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
@@ -94,13 +94,13 @@
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
 
-    p.mb-4.mb-lg-5 Se invita a ver con mayor detalle a través del siguiente gráfico todo lo que tiene que ver con PQRSF:
+    p.mb-4.mb-lg-5 Se invita a revisar con mayor detalle a través del siguiente gráfico todo lo que tiene que ver con PQRSF:
 
     TabsA.color-primario(data-aos="fade-down").mb-4.mb-lg-5
       .tarjeta.bg-primario-claro.p-4(titulo="Petición")
         .row.align-items-center.p-4
           .col-12
-            p En términos generales, hace referencia a una solicitud formal de un cliente para obtener de igual manera una respuesta de la empresa ante un tema específico, el fin de una petición es “obtener información”. Cabe mencionar, que cuando se indica que es una solicitud formal implica que en la empresa debe quedar trazabilidad de la misma, es decir, documentada o registrada en algún sistema de información, así mismo, al usuario le debe quedar un soporte de su requerimiento, lo que usualmente se conoce como radicado o consecutivo.
+            p En términos generales, hace referencia a una solicitud formal de un cliente para obtener de igual manera una respuesta de la empresa ante un tema específico, el fin de una petición es obtener información. Cabe mencionar, que cuando se indica que es una solicitud formal implica que en la empresa debe quedar trazabilidad de la misma, es decir, documentada o registrada en algún sistema de información, así mismo, al usuario le debe quedar un soporte de su requerimiento, lo que usualmente se conoce como radicado o consecutivo.
             p También en términos normativos existe una definición en Colombia, dada en la Ley 1755 de 2015, donde se informa en su Artículo 14 que para las entidades públicas “Salvo norma legal especial y so pena de sanción disciplinaria, toda petición deberá resolverse dentro de los quince días siguientes a su recepción”.
             p.mb-0 Pese a lo anterior, es de destacar que en actividades económicas no reguladas, el tiempo de gestión de peticiones lo define la empresa a través de sus políticas internas, estableciendo procedimientos y protocolos que aseguren la oportuna respuesta al cliente, aunque es un término muy usado, la referencia de los 15 días mencionados previamente.
       .tarjeta.bg-primario-claro.p-4(titulo="Queja")
@@ -178,9 +178,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Flujo para la atención de requerimientos
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/12-mob.svg", alt="La figura muestra el flujo para la atención de requerimientos.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/12.svg", alt="La figura muestra el flujo para la atención de requerimientos.")
-        figcaption #[strong Nota.] SENA, 2026
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/12-mob.svg", alt="Se detalla en la figura el flujo de atención de requerimientos así: inicio, el agente verifica la identidad del usuario o cliente, el cliente o usuario es quien dice ser, el requerimiento tiene alcance si o no?, el agente tiene alcance para dar solución? ingresar gestión en sistema de información o base de datos, fin.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/12.svg", alt="Se detalla en la figura el flujo de atención de requerimientos así: inicio, el agente verifica la identidad del usuario o cliente, el cliente o usuario es quien dice ser, el requerimiento tiene alcance si o no?, el agente tiene alcance para dar solución? ingresar gestión en sistema de información o base de datos, fin.")
+        figcaption <strong>Nota.</strong> SENA, (2026).
           
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10

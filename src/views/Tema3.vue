@@ -25,9 +25,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructura de una base de datos
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/3.png", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/2.png", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        figcaption #[strong Nota.] SENA, 2026
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/3.png", alt="En la figura se muestra los datos agrupados mediante tablas, cada una con columnas y filas.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/2.png", alt="En la figura se muestra los datos agrupados mediante tablas, cada una con columnas y filas.")
+        figcaption <strong>Nota.</strong> SENA, (2026).
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -40,7 +40,7 @@
           span Ejemplo de una tabla de clientes de una empresa
         .tabla-a.color-primario
           table
-            caption #[strong Nota.] SENA, 2026
+            caption #[strong Nota.] SENA, (2026).
             thead
               tr(style="background-color: #F6F8FE")
                 th Apellido
@@ -99,23 +99,23 @@
           .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
             img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema2/1.svg' alt='AvatarTop')
             h5.ms-4 Variabilidad
-            p.ms-4.mb-0 Estáticas
-            p.ms-4.mb-0 Dinámicas
+            p.ms-4.mb-0 Estáticas.
+            p.ms-4.mb-0 Dinámicas.
       .col-md-6.col-lg-4.col-xl-3
         .tarjeta-container.mb-4.custom-mh
           .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
             img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema2/2.svg' alt='AvatarTop')
             h5.ms-4 Según el contenido
-            p.ms-4.mb-0 Bibliográficas
-            p.ms-4.mb-0 De texto completo
-            p.ms-4.mb-0 De directorio
+            p.ms-4.mb-0 Bibliográficas.
+            p.ms-4.mb-0 De texto completo.
+            p.ms-4.mb-0 De directorio.
       .col-md-6.col-lg-4.col-xl-3
         .tarjeta-container.mb-4.custom-mh
           .position-relative.bg-secundario-medio.p-4.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.flex-column.justify-content-center
             img.tarjeta-label__icon.position-absolute.img-85(src='@/assets/curso/tema2/3.svg' alt='AvatarTop')
             h5.ms-4 Según los modelos
-            p.ms-4.mb-0 Transaccionales
-            p.ms-4.mb-0 Relacionales
+            p.ms-4.mb-0 Transaccionales.
+            p.ms-4.mb-0 Relacionales.
     
     .row.justify-content-center
       .col-xl-10
@@ -157,7 +157,7 @@
               p.mb-0 Las #[strong bases de datos bibliográficas] son aquellas que permiten recopilar información que responde a áreas de conocimiento específico, especialmente relacionadas con publicaciones académicas o técnicas; a nivel de tecnología se recogen en catálogos informáticos, por ejemplo, los investigadores tienen como la mejor fuente de búsqueda de información las bases de datos bibliográficas porque consolidan las referencias alrededor de temáticas específicas.
           .row(titulo="Bases de datos de texto completo")
             .col-md-12.px-5
-              p Las #[strong bases de datos de texto completo] posibilitan la búsqueda de información a partir de key words (palabras clave), la diferencia con las bases de datos bibliográficas es que en estas se podrá tener acceso a la información completa, por ejemplo, Google es una base de datos de texto completo, ya que al ingresar en el buscador se puede acceder inmediatamente a consultar el documento, imagen o video que se requiera.
+              p Las #[strong bases de datos de texto completo] posibilitan la búsqueda de información a partir de #[em key words] (palabras clave), la diferencia con las bases de datos bibliográficas es que en estas se podrá tener acceso a la información completa, por ejemplo, Google es una base de datos de texto completo, ya que al ingresar en el buscador se puede acceder inmediatamente a consultar el documento, imagen o video que se requiera.
           .row(titulo="Bases de datos de directorio")
             .col-md-12.px-5
               p Las #[strong bases de datos de tipo directorio] alojan la información específica de un grupo de interés de la compañía, entendiendo estos como aquellos grupos con los cuales la empresa tiene relación constante, a nivel general son: los colaboradores, clientes, proveedores, distribuidores, entres de control, entre otros. Dichas bases de datos son de alta relevancia, ya que permiten organizar la información según los requerimientos puntuales que se tengan, por ejemplo, una base de datos que aloje la información de los colaboradores de la compañía relacionando sus datos de nombres, fecha de nacimiento, estado civil, estudios y datos de contacto.
@@ -190,7 +190,7 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .cajon.color-terciario.p-4(data-aos="fade-up")
-          p.mb-0 Ambos tipos de bases de datos (transaccionales y relacionales) están desarrolladas bajo plataformas denominadas motores de bases de datos como Access, MySQL, Oracle, entre otras y estas a su vez se encuentran conectadas con lenguajes de programación, es decir, con códigos específicos, tales como Phyton, C++, Visual Basic, HTML, etc. y en este sentido la combinación entre un motor de base de datos y el lenguaje de programación da como resultado software (programas) con funciones específicas.
+          p.mb-0 Ambos tipos de bases de datos (transaccionales y relacionales) están desarrolladas bajo plataformas denominadas motores de bases de datos como Access, MySQL, Oracle, entre otras y estas a su vez se encuentran conectadas con lenguajes de programación, es decir, con códigos específicos, tales como Phyton, C++, Visual Basic, HTML, etc. y en este sentido la combinación entre un motor de base de datos y el lenguaje de programación da como resultado #[em software] (programas) con funciones específicas.
 
     h4(data-aos='zoom-in-right').mb-4.mb-lg-5.z-2
       span.etiqueta-title Registro de información en bases de datos
@@ -242,7 +242,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/15.svg", alt="imagen de acompañamiento")
       .col-lg-8.col-xl-6
         .p-4.bg-secundario-extra-claro
-          p.mb-0 #[strong Diana Carolina] es agente de servicio enfocada en la recepción de pedidos, por tanto, desde su rol de registro y edición tiene un perfil para ingresar pedidos, mientras que #[strong María Valentina] que es una agente de servicio en el contact center, enfocada en brindar información a los clientes tiene asociado a su rol de consulta un perfil para consultar los pedidos de los clientes.
+          p.mb-0 #[strong Diana Carolina] es agente de servicio enfocada en la recepción de pedidos, por tanto, desde su rol de registro y edición tiene un perfil para ingresar pedidos, mientras que #[strong María Valentina] que es una agente de servicio en el #[em contact center], enfocada en brindar información a los clientes tiene asociado a su rol de consulta un perfil para consultar los pedidos de los clientes.
       .col-8.col-md-4.col-lg-2.col-xl-2
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/16.svg", alt="imagen de acompañamiento")
@@ -266,9 +266,9 @@
         .rounded-4.overflow-hidden.h-100
           img(data-aos="fade-up", src="@/assets/curso/tema3/17.png", alt="imagen de acompañamiento")
           .bg-secundario-medio.p-4.custom-mh
-            h5 Back-up
-            p Las empresas deben tener por su seguridad un back-up (respaldo), que permita que en caso de que se tenga alguna falla técnica de tipo informático sea posible seguir contando con la información.
-            p.mb-0 Técnicamente los back-up tienen por fin garantizar que la misma información se encuentre disponible mínimo en dos repositorios diferentes, ya sea físicos (instalaciones de la empresa) o en nube (servidores por fuera de ella), esto permitirá hacer frente a los ataques informáticos o errores humanos.
+            h5 #[em Back-up]
+            p Las empresas deben tener por su seguridad un #[em back-up] (respaldo), que permita que en caso de que se tenga alguna falla técnica de tipo informático sea posible seguir contando con la información.
+            p.mb-0 Técnicamente los #[em back-up] tienen por fin garantizar que la misma información se encuentre disponible mínimo en dos repositorios diferentes, ya sea físicos (instalaciones de la empresa) o en nube (servidores por fuera de ella), esto permitirá hacer frente a los ataques informáticos o errores humanos.
       .col-md-8.col-lg-6
         .rounded-4.overflow-hidden.h-100
           img(data-aos="fade-up", src="@/assets/curso/tema3/18.png", alt="imagen de acompañamiento")

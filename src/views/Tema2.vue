@@ -138,9 +138,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Sistemas de información transversales
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/11-mob.svg", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/11.svg", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        figcaption #[strong Nota.] SENA, 2026
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/11-mob.svg", alt="En la figura se muestra el sistema de información transversal: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/11.svg", alt="En la figura se muestra el sistema de información transversal: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
+        figcaption <strong>Nota.</strong> SENA, (2026).
 
     .row.justify-content-center
       .col-xl-10
@@ -191,7 +191,7 @@
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
-        p Atendiendo al tema de cumplimiento jurídico-tributario o simplemente por organización de la empresa, las organizaciones deben facturar a sus clientes, los tiempos en los cuales la factura era una hoja de papel escrita con lapicero ya quedaron atrás, se requiere rapidez, fiabilidad y trazabilidad, con esos fines los sistemas de información de billing (facturación) surgen para las empresas como una solución en la entrega de facturas a los clientes, incluso ahora por temas de facturación electrónica permiten, incluso, que lleguen a los clientes de forma digital. Por esto, se listan algunas características de este tipo de sistema de facturación:
+        p Atendiendo al tema de cumplimiento jurídico-tributario o simplemente por organización de la empresa, las organizaciones deben facturar a sus clientes, los tiempos en los cuales la factura era una hoja de papel escrita con lapicero ya quedaron atrás, se requiere rapidez, fiabilidad y trazabilidad, con esos fines los sistemas de información de #[em billing] (facturación) surgen para las empresas como una solución en la entrega de facturas a los clientes, incluso ahora por temas de facturación electrónica permiten, incluso, que lleguen a los clientes de forma digital. Por esto, se listan algunas características de este tipo de sistema de facturación:
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.mb-4.mb-lg-5.z-2
@@ -212,7 +212,7 @@
           .tarjeta-numerada__numero
             .h2 3
           h5.mb-4 Disminución de errores en cobros
-          P.mb-0 Las manualidades llevan inmersas el error humano y si bien los S.I. son operados por humanos, con sistemas de Billing, que minimiza el error, dado que una de las finalidades de los facturadores es realizar los cálculos respectivos asociados a cada transacción.
+          P.mb-0 Las manualidades llevan inmersas el error humano y si bien los S.I. son operados por humanos, con sistemas de #[em Billing], que minimiza el error, dado que una de las finalidades de los facturadores es realizar los cálculos respectivos asociados a cada transacción.
 
     .row.justify-content-center
       .col-xl-10

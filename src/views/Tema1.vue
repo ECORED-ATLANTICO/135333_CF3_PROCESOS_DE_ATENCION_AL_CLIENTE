@@ -7,8 +7,8 @@
         span 1
       h1 La organización empresarial
 
-    p La organización o empresa es la estructura económica sobre la cual funciona la economía. También puede atenderse la definición del Código de Comercio de Colombia, que en su página 9 define la empresa como “Toda actividad económica organizada para la producción, transformación, circulación, administración o custodia de bienes, o para la prestación de servicios”.
-    p.mb-6 Las empresas son creadas para atender diversas misiones como las que se pueden ver a continuación:
+    p La organización o empresa es la estructura económica sobre la cual funciona la economía. También puede atenderse la definición del código de comercio de Colombia, que en su página 9 define la empresa como “Toda actividad económica organizada para la producción, transformación, circulación, administración o custodia de bienes, o para la prestación de servicios”.
+    p.mb-6 Las empresas son creadas para atender diversas misiones como las que se pueden detallar a continuación:
 
     div.slider-wrapper.z-2.mb-6
       .bg-fullwidth
