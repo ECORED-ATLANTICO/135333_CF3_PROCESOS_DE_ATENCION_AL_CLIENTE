@@ -9,7 +9,7 @@
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-6.col-lg-4
+      .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/1.png", alt="descripcion")
       .col-lg-8
