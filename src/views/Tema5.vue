@@ -12,7 +12,7 @@
         figure
             img.mb-4.mb-lg-0(src='@/assets/curso/tema5/1.png', alt='Texto que describa la imagen')
       .col-12.col-lg-8(data-aos="zoom-in-left")
-        p Surgen dentro de la recepción de requerimientos, cuando el cliente siente que el agente de servicio no está entendiendo el requerimiento o cuando el agente le indica que no tiene alcance para recepcionarlo; por tanto, para un agente de servicio es muy importante conocer sobre objeciones, dado que al interactuar con el cliente, este probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información. En palabras más sencillas, las objeciones son una serie de preguntas y afirmaciones interpuestas por los clientes cuando no siente empatía por el personal de la empresa hacia su solicitud.
+        p Surgen dentro de la recepción de requerimientos, cuando el cliente siente que el agente de servicio no está entendiendo el requerimiento o cuando el agente le indica que no tiene alcance para recepcionarlo; por tanto, para un agente de servicio es muy importante conocer sobre objeciones, dado que al interactuar con el cliente, este probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información. En palabras más sencillas, las objeciones son una serie de preguntas y afirmaciones interpuestas por los clientes cuando no sienten empatía por el personal de la empresa hacia su solicitud.
         p.mb-0 Existen muchas interpretaciones de lo que es una objeción en términos de servicio al cliente. Algunos autores consideran que hace parte del proceso normal de interacción entre un cliente y un representante de la empresa; sin embargo, hay otros que indican que la presencia de objeciones puede denotar desconocimiento por parte de alguno de los dos interlocutores (agente de servicio o cliente). No obstante, a pesar de no existir consenso en por qué se dan, sí es claro, que es un tema clave que un agente de servicio al cliente debe conocer.
     
     p.mb-5 En consecuencia, a continuación, se enuncian dos definiciones de objeciones de autores y una propia:
@@ -138,7 +138,7 @@
       .p-3.p-lg-5(titulo="Precio")
         .row.align-items-center.justify-content-evenly
           .col-lg-8.col-xl-7
-            p.mb-4.mb-lg-0 Cuando los agentes tienen también rol comercial, el precio será siempre la variable de objeción por excelencia, dado que los clientes siempre querrán pagar menos para obtener los bienes y servicios de la empresa. En algunos casos, la cultura también impacta este tipo de objeciones, lo que comúnmente se llama “regatear”. El manejo de esta objeción se da principalmente en contrarrestar con argumentos desde las características, beneficios y ventajas del producto, así se tratará de mostrar una relación costo - beneficio positiva; en otras ocasiones, cuando el agente tiene el perfil de negociar también puede acudir a los descuentos para tratar de cerrar la venta.
+            p.mb-4.mb-lg-0 Cuando los agentes tienen también rol comercial, el precio será siempre la variable de objeción por excelencia, dado que los clientes siempre querrán pagar menos para obtener los bienes y servicios de la empresa. En algunos casos, la cultura también impacta este tipo de objeciones, lo que comúnmente se llama “regatear”. El manejo de esta objeción se da principalmente en contrarrestar con argumentos desde las características, beneficios y ventajas del producto, así se tratará de mostrar una relación costo - beneficio positiva; en otras ocasiones, cuando el agente tiene el perfil de negociar, también puede acudir a los descuentos para tratar de cerrar la venta.
           .col-8.col-md-6.col-lg-4.col-xl-3
             figure
               img.img-140(src='@/assets/curso/tema5/5.svg', alt='Texto que describa la imagen')
@@ -166,7 +166,7 @@
       .p-3.p-lg-5(titulo="Agente NO resuelve requerimiento del cliente")
         .row.align-items-center.justify-content-evenly
           .col-lg-8.col-xl-7
-            p Desde la óptica de cliente, siempre se espera que en el primer contacto los requerimientos quedan resueltos; sin embargo, por temas de perfiles, estructura organizacional y procedimientos técnicos, no siempre será así. Por tanto, el rol del agente de servicio será tener una comunicación efectiva con el cliente, informando en detalle por qué no puede gestionar su requerimiento, mostrando interés en la gestión del mismo, aunque aclarando que deben respetarse los flujos, tiempos o lineamientos de la empresa.
+            p Desde la óptica de cliente, siempre se espera que en el primer contacto los requerimientos queden resueltos; sin embargo, por temas de perfiles, estructura organizacional y procedimientos técnicos, no siempre será así. Por tanto, el rol del agente de servicio será tener una comunicación efectiva con el cliente, informando en detalle por qué no puede gestionar su requerimiento, mostrando interés en la gestión del mismo, aunque aclarando que deben respetarse los flujos, tiempos o lineamientos de la empresa.
           .col-8.col-md-6.col-lg-4.col-xl-3
             figure
               img.img-140(src='@/assets/curso/tema5/9.svg', alt='Texto que describa la imagen')

@@ -65,7 +65,7 @@
           .tarjeta.bg-primario-claro.p-4(titulo="Expositivos")
             .row.align-items-center.p-4
               .col-12
-                p.mb-0 Cuando el fin es dar a conocer información de tipo descriptivo, usualmente no tienen profundidad en análisis, por lo que su objetivo es mostrar la realidad de hechos o actividades empresariales, en el mundo empresarial se conocen como “mostrar la foto”, es decir, contar lo que está aconteciendo tal cual como se está presentado la situación.
+                p.mb-0 Cuando el fin es dar a conocer información de tipo descriptivo, usualmente no tienen profundidad en análisis, por lo que su objetivo es mostrar la realidad de hechos o actividades empresariales, en el mundo empresarial se conocen como “mostrar la foto”, es decir, contar lo que está aconteciendo tal cual como se está presentando la situación.
           .tarjeta.bg-primario-claro.p-4(titulo="Interpretativos")
             .row.align-items-center.p-4
               .col-12

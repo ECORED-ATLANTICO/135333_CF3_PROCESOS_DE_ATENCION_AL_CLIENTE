@@ -221,7 +221,7 @@
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema3/13.svg' alt='AvatarTop')
               h5.text-center.mb-4 Rol de Registro y Edición
-              p.text-center Este tipo de roles están asociados a aquellos usuarios que ingresan, procesas y/o modifican los datos.
+              p.text-center Este tipo de roles están asociados a aquellos usuarios que ingresan, procesan y/o modifican los datos.
           .col-md-6.col-lg-4
             .tarjeta.bg-slider-f.p-4.custom-mh
               .row.justify-content-center.mb-3
@@ -267,8 +267,8 @@
           img(data-aos="fade-up", src="@/assets/curso/tema3/17.png", alt="imagen de acompañamiento")
           .bg-secundario-medio.p-4.custom-mh
             h5 #[em Back-up]
-            p Las empresas deben tener por su seguridad un #[em back-up] (respaldo), que permita que en caso de que se tenga alguna falla técnica de tipo informático sea posible seguir contando con la información.
-            p.mb-0 Técnicamente los #[em back-up] tienen por fin garantizar que la misma información se encuentre disponible mínimo en dos repositorios diferentes, ya sea físicos (instalaciones de la empresa) o en nube (servidores por fuera de ella), esto permitirá hacer frente a los ataques informáticos o errores humanos.
+            p Las empresas deben tener por su seguridad un #[em back-up] (respaldo), que permita que en caso de que se tenga alguna falla técnica de tipo informático, sea posible seguir contando con la información.
+            p.mb-0 Técnicamente los #[em back-up] tienen por fin garantizar que la misma información se encuentre disponible mínimo en dos repositorios diferentes, ya sea físicos (instalaciones de la empresa) o en la nube (servidores por fuera de ella), esto permitirá hacer frente a los ataques informáticos o errores humanos.
       .col-md-8.col-lg-6
         .rounded-4.overflow-hidden.h-100
           img(data-aos="fade-up", src="@/assets/curso/tema3/18.png", alt="imagen de acompañamiento")

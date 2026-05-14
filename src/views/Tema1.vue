@@ -22,7 +22,7 @@
                 img(src='@/assets/curso/tema1/1.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
-              p.mb-4.mb-lg-0 Desde la perspectiva económica, las empresas tienen a nivel general una función y es el lucro, es decir, la obtención de ganancias a partir del desarrollo de una actividad comercial legal. Es por ello, que usualmente cuando un cliente va a adquirir un producto debe pagar un precio para que a cambio la empresa le entregue el bien o servicio requerido.
+              p.mb-4.mb-lg-0 Desde la perspectiva económica, las empresas tienen a nivel general una función y es el lucro, es decir, la obtención de ganancias a partir del desarrollo de una actividad comercial legal. Es por ello, que usualmente, cuando un cliente va a adquirir un producto, debe pagar un precio para que a cambio la empresa le entregue el bien o servicio requerido.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/2.png', alt='')
@@ -120,7 +120,7 @@
               .col-12.col-lg-8
                 p Representa una combinación de la estructura vertical a nivel de mando y dentro de cada proceso / área hay una estructura. 
                 p #[strong Positivo]:  mezclan lo mejor de cada tipo de estructura, por tanto, son prácticos y funcionales.
-                p.mb-4.mb-lg-0 #[strong Desventaja]: en la práctica pueden ser complejos de estructurar porque están basado s en conceptos individualmente contradictorios.
+                p.mb-4.mb-lg-0 #[strong Desventaja]: en la práctica pueden ser complejos de estructurar porque están basados en conceptos individualmente contradictorios.
               .col-12.col-lg-4.align-items-center.mb-3.mb-lg-0
                 figure.justify-center
                   img.img-180(src='@/assets/curso/tema1/17.svg', alt='')
@@ -170,7 +170,7 @@
                 .col-8
                   img.img-120.mb-4(src='@/assets/curso/tema1/13.svg' alt='AvatarTop')
               h5.text-center.mb-4 Garantizar la implementación del protocolo
-              p.text-center Realizar seguimiento a cómo está operando el protocolo y cómo es evaluado el tema de por parte de la población impactada.
+              p.text-center Realizar seguimiento a cómo está operando el protocolo y cómo es evaluado el tema por parte de la población impactada.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10

@@ -33,7 +33,7 @@
           img(data-aos="fade-up", src="@/assets/curso/tema4/2.png", alt="imagen de acompañamiento")
           .bg-primario-medio.p-4.custom-mh
             h5 Peticiones, quejas, reclamos, sugerencias, felicitaciones (PQRSF)
-            p.mb-0 Las Peticiones (P), Quejas (Q), Reclamos (R), Sugerencias (S) y Felicitaciones (F) son en muchas ocasiones la mayor composición dentro de los requerimientos de los usuarios, ya que la mayoría de sus solicitudes hacia la empresa están enfocadas en ellas. A nivel general, las PQRS hacen alusión a inconformidades o dificultades con la empresa, su personal o los productos adquiridos, mientras que las felicitaciones aluden a un reconocimiento de cliente hacia la empresa y las sugerencias una visión de mejora desde una perspectiva propositiva. 
+            p.mb-0 Las Peticiones (P), Quejas (Q), Reclamos (R), Sugerencias (S) y Felicitaciones (F) son en muchas ocasiones la mayor composición dentro de los requerimientos de los usuarios, ya que la mayoría de sus solicitudes hacia la empresa están enfocadas en ellas. A nivel general, las PQRS hacen alusión a inconformidades o dificultades con la empresa, su personal o los productos adquiridos, mientras que las felicitaciones aluden a un reconocimiento de cliente hacia la empresa y las sugerencias, una visión de mejora desde una perspectiva propositiva. 
 
     //- .row.align-items-stretch.mb-xl-5
     //-   .col-md-6.col-lg-4.col-xl-3.offset-xl-2
@@ -68,8 +68,8 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipo de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Tipo de requerimientos
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipos de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Tipos de requerimientos
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -94,7 +94,7 @@
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
 
-    p.mb-4.mb-lg-5 Se invita a revisar con mayor detalle a través del siguiente gráfico todo lo que tiene que ver con PQRSF:
+    p.mb-4.mb-lg-5 Se invita a revisar con mayor detalle a través del siguiente recurso todo lo que tiene que ver con PQRSF:
 
     TabsA.color-primario(data-aos="fade-down").mb-4.mb-lg-5
       .tarjeta.bg-primario-claro.p-4(titulo="Petición")
@@ -139,7 +139,7 @@
               p.mb-0 Este soporte tiene varios alcances, el primero de ellos es cuando los clientes tienen desconocimiento o dudas sobre el manejo de los productos o servicios de la empresa; el segundo es cuando tienen dificultad para acceder a alguno de los canales digitales de la compañía; finalmente, el tercero que es cuando tienen problemas con sus servicios y requieren de la empresa para validar remotamente o en el sitio su funcionamiento.
           .row(titulo="Pedidos")
             .col-md-12.px-5
-              p.mb-0 En términos comerciales son los requerimientos de compras de un cliente hacia la empresa. En este orden de ideas, los agentes de servicio al cliente que están asociados a la gestión de pedidos deben estar en la capacidad de crearlos (tomarlos) e informar sobre el estado de los mismo (dar seguimiento).
+              p.mb-0 En términos comerciales son los requerimientos de compras de un cliente hacia la empresa. En este orden de ideas, los agentes de servicio al cliente que están asociados a la gestión de pedidos deben estar en la capacidad de crearlos (tomarlos) e informar sobre el estado de los mismos (dar seguimiento).
           .row(titulo="Televentas")
             .col-md-12.px-5
               p.mb-0 Son canales especializados en las ventas a través de canales telefónicos, si bien hacen parte más del mundo comercial que del alcance de servicio al cliente, hoy en día es común que los agentes de servicio se vean orientados también a tener metas comerciales, es decir, a que su gestión también tenga asociados indicadores de ventas.

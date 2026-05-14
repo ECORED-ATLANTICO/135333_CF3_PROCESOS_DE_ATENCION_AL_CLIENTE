@@ -108,7 +108,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta custom-acordeon")
           .row(titulo="ERP")
             .col-md-12.px-5
-              p.mb-0 Sistema de información en el que sistematiza varios procesos de su compañía, se dirá que la empresa tiene un #[em Enterprise Resource Planning] (Sistema de planificación de recursos empresariales) más conocido como ERP.
+              p.mb-0 Sistema de información en el que sistematiza varios procesos de su compañía, se dirá que la empresa tiene un #[em Enterprise Resource Planning] (Sistema de planificación de recursos empresariales), más conocido como ERP.
           .row(titulo="CRM")
             .col-md-12.px-5
               p Sistemas de información enfocados en clientes, es decir, si la empresa posee un sistema de información destinado solo a los clientes, se hará mención a un #[em Customer Relationship Management] (Sistema de gestión de las relaciones con los clientes), conocido como CRM.
@@ -117,7 +117,7 @@
               p Sistema enfocado exclusivamente en procesos de facturación y se denominará #[em Billing] (facturadores).
           .row(titulo="Sistemas de BI")
             .col-md-12.px-5
-              p Sistema enfocado al procesamiento de información de la empresa, se denomina #[em Business Intelligence] (Inteligencia de negocios) referenciado en el ámbito empresarial como sistemas de BI.
+              p Sistema enfocado al procesamiento de información de la empresa, se denomina #[em Business Intelligence] (Inteligencia de negocios), referenciado en el ámbito empresarial como sistemas de BI.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
