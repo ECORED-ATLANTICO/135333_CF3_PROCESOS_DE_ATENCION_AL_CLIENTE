@@ -317,6 +317,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
+          nombre: 'Yuly Rey ',
+          cargo: 'Diseñador web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
           nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
@@ -349,6 +355,17 @@ export default {
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Carlos Andrés Díaz Pinto',
+          cargo: 'Desarrollo Front-end',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Emilsen Alfonso Bautista',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },

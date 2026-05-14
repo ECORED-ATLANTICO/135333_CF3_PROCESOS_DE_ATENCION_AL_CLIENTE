@@ -90,7 +90,7 @@
         h4(data-aos='zoom-in-right').mb-4
           span.etiqueta-title Resolución de objeciones
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
         p.mb-0 Navarro (2012) en su libro Técnicas de ventas propone un esquema interesante para el manejo de objeciones, comenzando por la escucha como el principio básico de la comunicación, luego a partir de la asertividad anticiparse a posibles alternativas de respuesta o solución, posteriormente a través de un ejercicio de empatía comprender la situación y finalmente si el cliente aún tiene inquietudes y refuta lo expuesto, exponer con argumentos claros y respetuosos la alternativa de solución.
 

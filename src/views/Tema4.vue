@@ -68,8 +68,8 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipos de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Tipos de requerimientos
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/08qeBEzkXCs" title="Tipo de requerimientos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Tipo de requerimientos
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -89,7 +89,7 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h5 Ejemplo 2
-              p.mb-4.mb-lg-0 Gloria va a pagar su factura en un restaurante, pero al detallar ve que le han cobrado erróneamente, por lo que solicita que se llame al administrador para formular un #[strong reclamo], al llegar a la mesa el administrador le indica que los disculpe, que ya mismo le generan nuevamente la factura con el valor correcto, por lo que el cliente indica que a nivel de #[strong sugerencia] considera importante que se revisen las facturas por parte de los meseros antes de entregarlas a los comensales.
+              p.mb-4.mb-lg-0 Gloria va a pagar su factura en un restaurante, pero al detallar ve que le han cobrado erróneamente, por lo que solicita que se llame al administrador para formular un #[strong reclamo], al llegar a la mesa el administrador le indica que los disculpe, que ya mismo le generan nuevamente la factura con el valor correcto, por lo que el cliente indica que a nivel de #[strong sugerencia], considera importante que se revisen las facturas por parte de los meseros antes de entregarlas a los comensales.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
