@@ -64,7 +64,7 @@
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
-        p.mb-0 Atendiendo la importancia de este tema, se invita a revisar el video que se muestra a continuación, con el fin de hacer mayor énfasis en las PQRSF:
+        p.mb-0 Atendiendo la importancia de este tema, a continuación el video de tipos de requerimientos con el fin de hacer mayor énfasis en las PQRSF:
 
     figure.mb-5
       .video.mb-2
@@ -94,7 +94,7 @@
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
 
-    p.mb-4.mb-lg-5 Se invita a revisar con mayor detalle a través del siguiente recurso todo lo que tiene que ver con PQRSF:
+    p.mb-4.mb-lg-5 A continuación, se enlista todo lo que tiene que ver con PQRSF:
 
     TabsA.color-primario(data-aos="fade-down").mb-4.mb-lg-5
       .tarjeta.bg-primario-claro.p-4(titulo="Petición")
@@ -123,10 +123,6 @@
         .row.align-items-center.p-4
           .col-12
             p.mb-0 Son la forma que tiene un cliente de dar a conocer a la empresa que desde su óptica está haciendo bien las cosas. Técnicamente, las felicitaciones expresadas de manera formal (es decir, a través de algún canal de la compañía), es la mejor representación de la satisfacción del cliente, lastimosamente, en nuestra cultura son menos frecuentes.
-
-    .row.justify-content-center.mb-4.mb-lg-5
-      .col-xl-10
-        p.mb-0 Continuando con este aprendizaje, se invita a revisar los demás tipos de requerimientos que se abordan en las empresas, por favor consulte lo que se expone a continuación:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-4.col-lg-4.col-xl-3.d-none.d-lg-block
@@ -166,7 +162,7 @@
       .col-lg-6
         p Con el fin de comprender de manera asertiva el lenguaje comunicacional en los procesos de atención al cliente y antes de ver el paso a paso para la gestión de requerimientos, se hace necesario conocer algunos conceptos básicos que se tienen a nivel operativo, en este sentido, surgen: #[strong la creación del caso, como el momento en el que se formaliza el requerimiento por parte del cliente hacia la empresa; el escalamiento del caso], obedece al momento en el que el agente de servicio debe direccionar el requerimiento para que sea gestionado por otra persona o área de la compañía y el cierre del caso se da cuando el recurso que está atendiendo el requerimiento tiene la competencia para dar la solución al cliente.
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
         p.mb-0 Ahora bien, desde la perspectiva de la atención al cliente, el procedimiento técnico para la gestión de requerimientos se basa en el protocolo de servicio definido por la compañía, ya que este es elaborado teniendo en cuenta la identidad de la empresa, el perfil de clientes y los diferentes tipos de solicitudes que un cliente pudiese presentar. No obstante, podrían mapearse a través de un flujo como son a nivel general las actividades que sigue la gestión de requerimientos en una compañía, todo ello desde la óptica de un agente de servicio, donde siempre se tendrá como fin la satisfacción de los clientes.
 

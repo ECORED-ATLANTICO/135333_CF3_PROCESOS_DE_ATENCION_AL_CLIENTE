@@ -138,8 +138,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Sistemas de información transversales
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/11-mob.svg", alt="En la figura se muestra el sistema de información transversal: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/11.svg", alt="En la figura se muestra el sistema de información transversal: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/11-mob.svg", alt="El sistema de información transversal se compone: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/11.svg", alt="El sistema de información transversal se compone: la automatización de procesos, la integración entre plataformas, flexibilidad para la implementación, información en tiempo real y generación de reportes.")
         figcaption <strong>Nota.</strong> SENA, (2026).
 
     .row.justify-content-center
@@ -253,7 +253,7 @@
                 figure.justify-center
                   img.img-95(src='@/assets/curso/tema2/20.svg', alt='Texto que describa la imagen')
               .col-12.col-lg-9    
-                p.mb-0 La visualización es el nombre técnico con el cual se conoce el procesamiento, la agrupación y consolidación de los datos para que sean vistos y entendidos por los usuarios. Hoy en día los sistemas de BI tienen grandes bondades en cuanto a este tema, ya que a través de métricas, gráficos y tablas se muestra de forma estética y precisa la información. 
+                p.mb-0 La visualización es el nombre técnico con el cual se conoce el procesamiento, la agrupación y consolidación de los datos para que sean vistos y entendidos por los usuarios. Hoy en día los sistemas de BI tienen grandes bondades en cuanto a este tema, ya que a través de métricas, gráficos y tablas se indica de forma estética y precisa la información.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-12

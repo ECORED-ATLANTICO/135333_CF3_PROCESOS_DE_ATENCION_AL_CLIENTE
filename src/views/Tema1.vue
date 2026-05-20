@@ -145,7 +145,7 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/10.png", alt="")
 
-    p.mb-4.mb-lg-5 En temas de discapacidad ahora la pregunta a resolver es ¿cómo las empresas implementan políticas o programas para la inclusión en temas de discapacidad?, en el siguiente esquema se muestra una propuesta para implementar en una empresa un protocolo de atención a personas en condición de discapacidad:
+    p.mb-4.mb-lg-5 En temas de discapacidad ahora la pregunta a resolver es ¿cómo las empresas implementan políticas o programas para la inclusión en temas de discapacidad?, en el siguiente esquema se detalla una propuesta para implementar en una empresa un protocolo de atención a personas en condición de discapacidad:
 
     .row.justify-content-center
       .col-xl-10

@@ -18,20 +18,20 @@
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
-        p.mb-0 En términos prácticos, una base de datos tiene una composición sencilla, los datos son agrupados mediante tablas, y cada una está integrada por columnas y filas, cada fila con diversos datos y se denomina registro y, las columnas conocidas como campos contienen la información específica para cada registro. Con fines ilustrativos en la siguiente figura se muestra su estructura y en la tabla siguiente un ejemplo aplicado con dichos conceptos.
+        p.mb-0 En términos prácticos, una base de datos tiene una composición sencilla, los datos son agrupados mediante tablas, y cada una está integrada por columnas y filas, cada fila con diversos datos y se denomina registro y, las columnas conocidas como campos contienen la información específica para cada registro. Con fines ilustrativos en la siguiente figura se detalla su estructura y en la tabla siguiente un ejemplo aplicado con dichos conceptos.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructura de una base de datos
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/3.png", alt="En la figura se muestra los datos agrupados mediante tablas, cada una con columnas y filas.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/2.png", alt="En la figura se muestra los datos agrupados mediante tablas, cada una con columnas y filas.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/3.png", alt="En la figura se detalla los datos agrupados mediante tablas, cada una con columnas y filas.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/2.png", alt="En la figura se detalla los datos agrupados mediante tablas, cada una con columnas y filas.")
         figcaption <strong>Nota.</strong> SENA, (2026).
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
-        p.mb-0 En términos empresariales, la mayoría de bases de datos que se utilizan son las denominadas “relacionales” y tal cual como se evidencia en la estructura anterior, dentro de la base de datos, las tablas deben tener algún tipo de conexión que permita que todas ellas tengan un campo en común, lo cual en el esquema anterior se observa mediante las flechas.
+        p.mb-0 En términos empresariales, la mayoría de bases de datos que se utilizan son las denominadas “relacionales” y tal cual como se evidencia en la estructura anterior, dentro de la base de datos, las tablas deben tener algún tipo de conexión que permita que todas ellas tengan un campo en común, lo cual en el esquema anterior se detalla mediante las flechas.
         
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -82,7 +82,7 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .cajon.color-terciario.p-4(data-aos="fade-up")
-          p.mb-0 De acuerdo con los conceptos vistos previamente, en la tabla expuesta se observan cuatro registros de clientes y para cada uno se relacionan seis campos: apellido, nombres, empresa, número de contacto, correo electrónico y municipio. En el entendimiento de las bases de datos se debe tener presente que la primera fila hace relación a los campos de la base de datos, por tanto, no se consideran registros.
+          p.mb-0 De acuerdo con los conceptos vistos previamente, en la tabla expuesta se refleja cuatro registros de clientes y para cada uno se relacionan seis campos: apellido, nombres, empresa, número de contacto, correo electrónico y municipio. En el entendimiento de las bases de datos se debe tener presente que la primera fila hace relación a los campos de la base de datos, por tanto, no se consideran registros.
 
     .row.justify-content-center
       .col-xl-10

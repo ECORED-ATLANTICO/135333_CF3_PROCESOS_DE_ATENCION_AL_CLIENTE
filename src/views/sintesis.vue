@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-auto.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="En la figura se detalla la organización empresarial, los sistemas de información, las bases de datos, los requerimientos, las objeciones y los informes.")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis, Recepción de requerimientos de clientes se destaca la estructura, funciones y niveles jerárquicos; organización empresarial, los sistemas de información, las bases de datos, los requerimientos, objeciones e informes.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

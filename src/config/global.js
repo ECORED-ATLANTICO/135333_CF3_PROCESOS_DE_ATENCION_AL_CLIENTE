@@ -101,7 +101,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA3_135333_DU.zip',
+        download: 'downloads/135333_CF3_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -115,51 +115,6 @@ export default {
       },
     ],
   },
-  // complementario: [
-  //   {
-  //     texto: 'SENA. (2022). Misión y Visión del SENA. SENA. ',
-  //     tipo: 'Articulo',
-  //     link: 'https://www.sena.edu.co/es-co/sena/Paginas/misionVision.aspx',
-  //   },
-  //   {
-  //     texto:
-  //       'Resolución 01726 de 2014. [Servicio Nacional de Aprendizaje]. Por la cual se adopta la Política Institucional para Atención de las personas con discapacidad. Agosto 12 de 2014.',
-  //     tipo: 'Resolución',
-  //     link:
-  //       'https://normograma.sena.edu.co/normograma/docs/resolucion_sena_1726_2014.htm',
-  //   },
-  //   {
-  //     texto:
-  //       'Acuerdo 010 de 2016. [Servicio Nacional de Aprendizaje]. Por medio del cual se adopta la política de Atención con Enfoque Pluralista y Diferencial en el SENA. Diciembre 20 de 2016.',
-  //     tipo: 'Acuerdo',
-  //     link:
-  //       'https://normograma.sena.edu.co/normograma/docs/acuerdo_sena_0010_2016.htm',
-  //   },
-  //   {
-  //     texto:
-  //       'GraphEverywhere. (2022). Tipos de bases de datos. Clasificación por contenido y modelo.',
-  //     tipo: 'Artículo',
-  //     link:
-  //       'https://www.grapheverywhere.com/tipos-bases-de-datos-clasificacion/',
-  //   },
-  //   {
-  //     texto:
-  //       'Ley 1755 de 2015 de Colombia. Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Diciembre 30 de 2015.',
-  //     tipo: 'Ley',
-  //     descarga: '/downloads/L-1755-2015.pdf',
-  //   },
-  //   {
-  //     texto:
-  //       'Diccionario de la Real Academia de la Lengua Española. Término objeción.',
-  //     tipo: 'Diccionario en línea',
-  //     link: 'https://dle.rae.es/objeci%C3%B3n',
-  //   },
-  //   {
-  //     texto: 'Navarro, M. (2012). Técnicas de ventas.',
-  //     tipo: 'Libro digital',
-  //     descarga: '/downloads/Tecnicas_de_venta.pdf',
-  //   },
-  // ],
   glosario: [
     {
       termino: 'Actitud',
@@ -324,14 +279,14 @@ export default {
         },
         {
           nombre: 'Fabio Fonseca Arguelles',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
 
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y productor audiovisual ',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
